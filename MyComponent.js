@@ -1,0 +1,1 @@
+This error occurs when you use a component that is not properly exported from its module.  For example, if you have a component in `MyComponent.js` and forget to add `export default MyComponent;` at the end of the file, you'll get this error when trying to import and use it elsewhere.
